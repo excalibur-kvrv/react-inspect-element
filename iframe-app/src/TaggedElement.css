@@ -1,4 +1,5 @@
-div.tagged-element:hover {
+div.tagged-element:hover, div.tagged-element:hover > a {
   background-color: yellow;
   color: red;
+  cursor: crosshair;
 }
