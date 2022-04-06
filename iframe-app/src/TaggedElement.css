@@ -1,0 +1,4 @@
+div.tagged-element:hover {
+  background-color: yellow;
+  color: red;
+}
